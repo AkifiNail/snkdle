@@ -1,0 +1,204 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "Name": "Eren Yeager",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Titan",
+            "Lieu": "Shiganshina",
+            "image": "eren.jpg",
+            "Life": false
+        },
+        {
+            "id": 2,
+            "Name": "Mikasa Ackerman",
+            "Genre": "Femme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "Shiganshina",
+            "image": "mikasa.jpg",
+            "Life": true
+        },
+        {
+            "id": 3,
+            "Name": "Armin Arlert",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "Shiganshina",
+            "image": "armin.jpg",
+            "Life": true
+        },
+        {
+            "id": 4,
+            "Name": "Levi Ackerman",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "District de Trost",
+            "image": "levi.jpg",
+            "Life": true
+        },
+        {
+            "id": 5,
+            "Name": "Hange Zoë",
+            "Genre": "Non spécifié",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "District de Trost",
+            "image": "hange.jpg",
+            "Life": false
+        },
+        {
+            "id": 6,
+            "Name": "Reiner Braun",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Titan",
+            "Lieu": "Marley",
+            "image": "reiner.jpg",
+            "Life": true
+        },
+        {
+            "id": 7,
+            "Name": "Annie Leonhart",
+            "Genre": "Femme",
+            "Season": 1,
+            "Attribut": "Soldat (Unité de Marley)",
+            "Lieu": "Marley",
+            "image": "annie.jpg",
+            "Life": true
+        },
+        {
+            "id": 8,
+            "Name": "Jean Kirstein",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "District de Trost",
+            "image": "jean.jpg",
+            "Life": true
+        },
+        {
+            "id": 9,
+            "Name": "Sasha Blouse",
+            "Genre": "Femme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "District de Trost",
+            "image": "sasha.jpg",
+            "Life": false
+        },
+        {
+            "id": 10,
+            "Name": "Connie Springer",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "Village de Ragako",
+            "image": "connie.jpg",
+            "Life": true
+        },
+        {
+            "id": 11,
+            "Name": "Historia Reiss",
+            "Genre": "Femme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "Mur Rose",
+            "image": "historia.jpg",
+            "Life": true
+        },
+        {
+            "id": 12,
+            "Name": "Ymir",
+            "Genre": "Femme",
+            "Season": 2,
+            "Attribut": "Titan",
+            "Lieu": "Mur Rose",
+            "image": "ymir.jpg",
+            "Life": false
+        },
+        {
+            "id": 13,
+            "Name": "Zeke Yeager",
+            "Genre": "Homme",
+            "Season": 3,
+            "Attribut": "Titan",
+            "Lieu": "Marley",
+            "image": "zeke.jpg",
+            "Life": false
+        },
+        {
+            "id": 14,
+            "Name": "Bertolt Hoover",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Titan",
+            "Lieu": "Marley",
+            "image": "bertolt.jpg",
+            "Life": false
+        },
+        {
+            "id": 15,
+            "Name": "Kenny Ackerman",
+            "Genre": "Homme",
+            "Season": 3,
+            "Attribut": "Soldat (Brigades Spéciales)",
+            "Lieu": "Mur Rose",
+            "image": "kenny.jpg",
+            "Life": false
+        },
+        {
+            "id": 16,
+            "Name": "Pieck Finger",
+            "Genre": "Femme",
+            "Season": 4,
+            "Attribut": "Titan",
+            "Lieu": "Marley",
+            "image": "pieck.jpg",
+            "Life": true
+        },
+        {
+            "id": 17,
+            "Name": "Gabi Braun",
+            "Genre": "Femme",
+            "Season": 4,
+            "Attribut": "Soldat (Unité de Marley)",
+            "Lieu": "Marley",
+            "image": "gabi.jpg",
+            "Life": true
+        },
+        {
+            "id": 18,
+            "Name": "Falco Grice",
+            "Genre": "Homme",
+            "Season": 4,
+            "Attribut": "Soldat (Unité de Marley)",
+            "Lieu": "Marley",
+            "image": "falco.jpg",
+            "Life": true
+        },
+        {
+            "id": 19,
+            "Name": "Grisha Yeager",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Titan",
+            "Lieu": "Shiganshina",
+            "image": "grisha.jpg",
+            "Life": false
+        },
+        {
+            "id": 20,
+            "Name": "Hitch Dreyse",
+            "Genre": "Femme",
+            "Season": 2,
+            "Attribut": "Soldat (Brigades Spéciales)",
+            "Lieu": "Stohess",
+            "image": "hitch.jpg",
+            "Life": true
+        }
+    ]
+}

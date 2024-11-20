@@ -1,0 +1,18 @@
+body{
+  background-image: url(/public/images/fond.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;}
+
+p , h1, h2, h3, h4, h5, h6{
+  color: #fff;
+}
+
+.green {
+  color: #3dff77;
+}
+
+.red{
+  color: #ff3d3d;
+}

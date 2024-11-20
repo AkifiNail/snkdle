@@ -43,7 +43,7 @@
         {
             "id": 5,
             "Name": "Hange Zoë",
-            "Genre": "Non spécifié",
+            "Genre": "Femme",
             "Season": 1,
             "Attribut": "Soldat (Bataillon d'Exploration)",
             "Lieu": "District de Trost",
@@ -198,6 +198,206 @@
             "Attribut": "Soldat (Brigades Spéciales)",
             "Lieu": "Stohess",
             "image": "hitch.jpg",
+            "Life": true
+        },
+        {
+            "id": 21,
+            "Name": "Marco Bodt",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Titan",
+            "Lieu": "District de Trost",
+            "image": "marco.jpg",
+            "Life": false
+        },
+        {
+            "id": 22,
+            "Name": "Ilse Langnar",
+            "Genre": "Femme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "Mur Rose",
+            "image": "ilse.jpg",
+            "Life": false
+        },
+        {
+            "id": 23,
+            "Name": "Florian Reeves",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Marchand",
+            "Lieu": "District de Trost",
+            "image": "florian.jpg",
+            "Life": true
+        },
+        {
+            "id": 24,
+            "Name": "Lara Tybur",
+            "Genre": "Femme",
+            "Season": 4,
+            "Attribut": "Titan",
+            "Lieu": "Marley",
+            "image": "lara.jpg",
+            "Life": false
+        },
+        {
+            "id": 25,
+            "Name": "Daz",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "Shiganshina",
+            "image": "daz.jpg",
+            "Life": false
+        },
+        {
+            "id": 26,
+            "Name": "Mina Carolina",
+            "Genre": "Femme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "Shiganshina",
+            "image": "mina.jpg",
+            "Life": false
+        },
+        {
+            "id": 27,
+            "Name": "Louise",
+            "Genre": "Femme",
+            "Season": 3,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "Mur Rose",
+            "image": "louise.jpg",
+            "Life": true
+        },
+        {
+            "id": 28,
+            "Name": "Nicolo",
+            "Genre": "Homme",
+            "Season": 4,
+            "Attribut": "Chef cuisinier",
+            "Lieu": "Marley",
+            "image": "nicolo.jpg",
+            "Life": true
+        },
+        {
+            "id": 29,
+            "Name": "Carla Yeager",
+            "Genre": "Femme",
+            "Season": 1,
+            "Attribut": "Civile",
+            "Lieu": "Shiganshina",
+            "image": "carla.jpg",
+            "Life": false
+        },
+        {
+            "id": 30,
+            "Name": "Frieda Reiss",
+            "Genre": "Femme",
+            "Season": 3,
+            "Attribut": "Titan",
+            "Lieu": "Mur Rose",
+            "image": "frieda.jpg",
+            "Life": false
+        },
+        {
+            "id": 31,
+            "Name": "Rod Reiss",
+            "Genre": "Homme",
+            "Season": 3,
+            "Attribut": "Titan",
+            "Lieu": "Mur Rose",
+            "image": "rod.jpg",
+            "Life": false
+        },
+        {
+            "id": 32,
+            "Name": "Isabel Magnolia",
+            "Genre": "Femme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "District de Trost",
+            "image": "isabel.jpg",
+            "Life": false
+        },
+        {
+            "id": 33,
+            "Name": "Furlan Church",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Soldat (Bataillon d'Exploration)",
+            "Lieu": "District de Trost",
+            "image": "furlan.jpg",
+            "Life": false
+        },
+        {
+            "id": 34,
+            "Name": "Theo Magath",
+            "Genre": "Homme",
+            "Season": 4,
+            "Attribut": "Soldat (Unité de Marley)",
+            "Lieu": "Marley",
+            "image": "magath.jpg",
+            "Life": false
+        },
+        {
+            "id": 35,
+            "Name": "Marcel Galliard",
+            "Genre": "Homme",
+            "Season": 4,
+            "Attribut": "Titan",
+            "Lieu": "Marley",
+            "image": "marcel.jpg",
+            "Life": false
+        },
+        {
+            "id": 36,
+            "Name": "Porco Galliard",
+            "Genre": "Homme",
+            "Season": 4,
+            "Attribut": "Titan",
+            "Lieu": "Marley",
+            "image": "porco.jpg",
+            "Life": false
+        },
+        {
+            "id": 37,
+            "Name": "Yelena",
+            "Genre": "Femme",
+            "Season": 4,
+            "Attribut": "Soldat (Anti-Marley)",
+            "Lieu": "Paradis",
+            "image": "yelena.jpg",
+            "Life": true
+        },
+        {
+            "id": 38,
+            "Name": "Onyankopon",
+            "Genre": "Homme",
+            "Season": 4,
+            "Attribut": "Soldat (Anti-Marley)",
+            "Lieu": "Paradis",
+            "image": "onyankopon.jpg",
+            "Life": true
+        },
+        {
+            "id": 39,
+            "Name": "Kitz Woermann",
+            "Genre": "Homme",
+            "Season": 1,
+            "Attribut": "Soldat (Garnison)",
+            "Lieu": "Shiganshina",
+            "image": "kitz.jpg",
+            "Life": true
+        },
+        {
+            "id": 40,
+            "Name": "Rico Brzenska",
+            "Genre": "Femme",
+            "Season": 1,
+            "Attribut": "Soldat (Garnison)",
+            "Lieu": "District de Trost",
+            "image": "rico.jpg",
             "Life": true
         }
     ]
